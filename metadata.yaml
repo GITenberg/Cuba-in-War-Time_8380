@@ -1,0 +1,29 @@
+_repo: Cuba-in-War-Time_8380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: First published in 1897, this is Davis's personal account of the guerilla
+  warfare that played a part in the Cuban War of Independence. With his singular journalistic
+  style that made him one of the best-known war correspondents of his day, Davis delivers
+  a graphic, dramatic account of this turbulent time in history.
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Davis, Richard Harding, 1864-1916'
+- !lcc 'F1751'
+- !lcsh 'Cuba -- History -- Revolution, 1895-1898 -- Personal narratives, American'
+- GITenberg
+title: Cuba in War Time
+url: http://www.gutenberg.org/ebooks/8380
